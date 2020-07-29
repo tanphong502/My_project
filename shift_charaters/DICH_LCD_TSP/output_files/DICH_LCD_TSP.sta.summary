@@ -1,0 +1,41 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 100C Model Setup 'CKHT'
+Slack : -3.958
+TNS   : -856.115
+
+Type  : Slow 1200mV 100C Model Hold 'CKHT'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'CKHT'
+Slack : -3.000
+TNS   : -405.000
+
+Type  : Slow 1200mV -40C Model Setup 'CKHT'
+Slack : -3.424
+TNS   : -726.095
+
+Type  : Slow 1200mV -40C Model Hold 'CKHT'
+Slack : 0.314
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'CKHT'
+Slack : -3.000
+TNS   : -405.000
+
+Type  : Fast 1200mV -40C Model Setup 'CKHT'
+Slack : -1.331
+TNS   : -251.010
+
+Type  : Fast 1200mV -40C Model Hold 'CKHT'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'CKHT'
+Slack : -3.000
+TNS   : -286.154
+
+------------------------------------------------------------

@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon Dec 02 15:13:39 2019
+Quartus II 64-Bit Version : 12.1 Build 177 11/07/2012 SJ Web Edition
+Revision Name : DICH_LCD_TSP
+Top-level Entity Name : DICH_LCD_TSP
+Family : Cyclone IV GX
+Device : EP4CGX150DF31I7
+Timing Models : Final
+Total logic elements : 481 / 149,760 ( < 1 % )
+    Total combinational functions : 481 / 149,760 ( < 1 % )
+    Dedicated logic registers : 268 / 149,760 ( < 1 % )
+Total registers : 268
+Total pins : 16 / 508 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 0 / 6,635,520 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 720 ( 0 % )
+Total GXB Receiver Channel PCS : 0 / 8 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 8 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 8 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 8 ( 0 % )
+Total PLLs : 0 / 8 ( 0 % )
