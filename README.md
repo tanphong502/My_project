@@ -3,5 +3,5 @@
 
 2nd project: Shift characters on LCD 1602 use De2i-150 FPGA Intel Development kit
 
-3rd project: Traffic light IC circuit can be adjusted time
+3rd project: Traffic light IC circuit can be adjusted time.
         Link youtube:  https://tinyurl.com/yxpmo4af
